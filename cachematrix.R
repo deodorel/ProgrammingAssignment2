@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## a set of functions that allow saving computing time when doing repeated inverse operations on matrixes
 
 ## decorates an input object x with get/set methods for the inverse value
 makeCacheMatrix <- function(x = matrix()) {
